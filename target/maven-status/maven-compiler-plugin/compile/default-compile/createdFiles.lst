@@ -1,0 +1,3 @@
+app/KafkaExmple.class
+kafka/clients/KafkaSimpleConsumer.class
+kafka/clients/KafkaSimpleProducer.class
